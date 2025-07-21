@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "SUZUKI 2024 CELERIO",
+    "descripcion": "Descripción del producto 1",
+    "imagen": "https://mm4wd.com/wp-content/uploads/2024/08/5-33"
+  },
+  {
+    "id": 2,
+    "nombre": "Producto 2",
+    "descripcion": "Descripción del producto 2",
+    "imagen": "ruta/a/la/imagen2.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Producto 3",
+    "descripcion": "Descripción del producto 3",
+    "imagen": "ruta/a/la/imagen3.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Producto 4",
+    "descripcion": "Descripción del producto 4",
+    "imagen": "ruta/a/la/imagen4.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Producto 5",
+    "descripcion": "Descripción del producto 5",
+    "imagen": "ruta/a/la/imagen5.jpg"
+  }
+]
